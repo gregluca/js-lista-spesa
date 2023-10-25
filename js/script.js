@@ -10,7 +10,6 @@
         i++;
         console.log(curList);
 
-        const spesa = document.querySelector('ul');
         listString += `<li>${curList}</li>`;
     }
  
